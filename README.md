@@ -58,4 +58,4 @@ Item {
 }
 ```
 
-**Remarks: This script do not understand QML syntax. It use RegExp to parse and update. It is recommended to commit your source code before using this script. **
+**Remarks: This script do not understand QML syntax. It use RegExp to parse and update. It is recommended to commit your source code before using this script.**
